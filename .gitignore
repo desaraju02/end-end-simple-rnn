@@ -19,3 +19,4 @@ build/
 *.ipynb_checkpoints/
 *.swp
 *.swo
+*.h5
